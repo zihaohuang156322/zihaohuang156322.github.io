@@ -48,7 +48,7 @@ Mentor: Prof. Yue Zhou
 
 ### An AFLT type generalization of the q-Baker-Forrester ex-conjecture
 
-**Zihao Huang**<sup>*</sup>, Wenlong Jiang, Yue Zhou, 2026.<br>
+**Zihao Huang**\*, Wenlong Jiang, Yue Zhou, 2026.<br>
 [[arXiv]](https://arxiv.org/abs/2609.05836)
 
 ### A generalization of Kadell's orthogonality ex-conjecture
