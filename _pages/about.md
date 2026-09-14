@@ -11,7 +11,7 @@ redirect_from:
 
 <span id="about-me"></span>
 
-# 这是一个绝对全新的仓库！Welcome to my homepage! I am **Zihao Huang**, a PhD student in Mathematics at Central South University in Changsha, China, supervised by Prof. Yue Zhou. I received my BSc in Mathematics and Applied Mathematics from Central South University in 2024. My expected PhD graduation date is June 2029.
+# Welcome to my homepage! I am **Zihao Huang**, a PhD student in Mathematics at Central South University in Changsha, China, supervised by Prof. Yue Zhou. I received my BSc in Mathematics and Applied Mathematics from Central South University in 2024. My expected PhD graduation date is June 2029.
 
 I work on algebraic combinatorics and special functions, with a particular focus on constant term identities and Macdonald polynomials.
 
@@ -48,7 +48,7 @@ Mentor: Prof. Yue Zhou
 
 ### An AFLT type generalization of the q-Baker-Forrester ex-conjecture
 
-**Zihao Huang**, Wenlong Jiang, Yue Zhou, 2026.<br>
+**Zihao Huang**<sup>*</sup>, Wenlong Jiang, Yue Zhou, 2026.<br>
 [[arXiv]](https://arxiv.org/abs/2609.05836)
 
 ### A generalization of Kadell's orthogonality ex-conjecture
