@@ -22,6 +22,17 @@ I am a PhD student in Mathematics at Central South University, China, supervised
 - Constant term identities
 - Macdonald polynomials
 
+## Education
+{: #education }
+
+**PhD in Mathematics**, Central South University, Changsha<br>
+2024 - Present<br>
+Supervisor: Prof. Yue Zhou · Expected graduation: June 2029
+
+**BSc in Mathematics and Applied Mathematics**, Central South University, Changsha<br>
+2020 - 2024<br>
+Mentor: Prof. Yue Zhou
+
 ## Publications
 {: #publications }
 
@@ -50,14 +61,3 @@ I am a PhD student in Mathematics at Central South University, China, supervised
 **Partially symmetric Macdonald polynomials and AFLT type constant term identities**<br>
 CSIAM 2026, Hebei Normal University, China · May 17, 2026 
 [[slide]](https://zihaohuang156322.github.io/files/2026CSIAM.pdf)
-
-## Education
-{: #education }
-
-**PhD in Mathematics**, Central South University, Changsha<br>
-2024 - Present<br>
-Supervisor: Prof. Yue Zhou · Expected graduation: June 2029
-
-**BSc in Mathematics and Applied Mathematics**, Central South University, Changsha<br>
-2020 - 2024<br>
-Mentor: Prof. Yue Zhou
