@@ -11,17 +11,15 @@ redirect_from:
 
 <span id="about-me"></span>
 
-# Welcome to my homepage! I am **Zihao Huang**, a PhD student in Mathematics at Central South University in Changsha, China, supervised by Prof. Yue Zhou. I received my BSc in Mathematics and Applied Mathematics from Central South University in 2024. My expected PhD graduation date is June 2029.
+# Welcome to my homepage! I am **Zihao Huang(黄子豪)**, a PhD student in Mathematics at Central South University in Changsha, China, supervised by Prof. Yue Zhou. My expected PhD graduation date is June 2029.
 
 I work on algebraic combinatorics and special functions, with a particular focus on constant term identities and Macdonald polynomials.
 
 ## Research Interests
 {: #research-interests }
 
-- q-Selberg type integrals
-- Constant term identities
-- Macdonald polynomials
-- Affine Hecke algebras
+- q-Selberg type integrals.    - Constant term identities
+- Macdonald polynomials.       - Affine Hecke algebras
 
 ## Education
 {: #education }
