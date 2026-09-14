@@ -11,17 +11,16 @@ redirect_from:
 
 <span id="about-me"></span>
 
-# Welcome to my homepage! I am **Zihao Huang (黄子豪)**, a PhD student in Mathematics at Central South University in Changsha, China, supervised by Prof. Yue Zhou. My expected PhD graduation date is June 2029.
+# Welcome to my homepage! I am **Zihao Huang (黄子豪)**, a PhD student in Mathematics at Central South University, China, supervised by Prof. Yue Zhou. My expected PhD graduation date is June 2029.
 
 I work on algebraic combinatorics and special functions, with a particular focus on constant term identities and Macdonald polynomials.
 
 ## Research Interests
 {: #research-interests }
 
-- q-Selberg type integrals.
+- q-Selberg type integrals
 - Constant term identities
-- Macdonald polynomials.
-- Affine Hecke algebras
+- Macdonald polynomials
 
 ## Publications
 {: #publications }
@@ -38,12 +37,12 @@ I work on algebraic combinatorics and special functions, with a particular focus
 ### An AFLT type generalization of the q-Baker-Forrester ex-conjecture
 
 **Zihao Huang**\*, Wenlong Jiang, Yue Zhou, 2026.<br>
-[[arXiv]](https://arxiv.org/abs/2609.05836)
+[[arXiv:2609.05836]](https://arxiv.org/abs/2609.05836)
 
 ### A generalization of Kadell's orthogonality ex-conjecture
 
 **Zihao Huang**, Wenlong Jiang, Yue Zhou, 2026.<br>
-[[arXiv]](https://arxiv.org/abs/2603.08041)
+[[arXiv:2603.08041]](https://arxiv.org/abs/2603.08041)
 
 ## Talks
 {: #talks }
