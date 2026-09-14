@@ -2,7 +2,7 @@
 permalink: /
 title: "About Me"
 seo_title: "Zihao Huang (Combinatorics) | Homepage"
-description: "Zihao Huang academic homepage. PhD student in Mathematics at Central South University, working on algebraic combinatorics, q-Selberg integrals, constant term identities, and Macdonald polynomials."
+description: "Zihao Huang (Combinatorics) academic homepage. PhD student in Mathematics at Central South University, working on algebraic combinatorics, q-Selberg integrals, constant term identities, and Macdonald polynomials."
 author_profile: true
 redirect_from:
   - /about/
@@ -18,19 +18,10 @@ I work on algebraic combinatorics and special functions, with a particular focus
 ## Research Interests
 {: #research-interests }
 
-- q-Selberg type integrals.    - Constant term identities
-- Macdonald polynomials.       - Affine Hecke algebras
-
-## Education
-{: #education }
-
-**PhD in Mathematics**, Central South University, Changsha<br>
-2024 - Present<br>
-Supervisor: Prof. Yue Zhou · Expected graduation: June 2029
-
-**BSc in Mathematics and Applied Mathematics**, Central South University, Changsha<br>
-2020 - 2024<br>
-Mentor: Prof. Yue Zhou
+- q-Selberg type integrals.
+- Constant term identities
+- Macdonald polynomials.
+- Affine Hecke algebras
 
 ## Publications
 {: #publications }
@@ -59,3 +50,14 @@ Mentor: Prof. Yue Zhou
 
 **Partially symmetric Macdonald polynomials and AFLT type constant term identities**<br>
 CSIAM 2026, Hebei Normal University, China · May 17, 2026
+
+## Education
+{: #education }
+
+**PhD in Mathematics**, Central South University, Changsha<br>
+2024 - Present<br>
+Supervisor: Prof. Yue Zhou · Expected graduation: June 2029
+
+**BSc in Mathematics and Applied Mathematics**, Central South University, Changsha<br>
+2020 - 2024<br>
+Mentor: Prof. Yue Zhou
