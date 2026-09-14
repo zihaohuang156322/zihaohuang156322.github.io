@@ -11,7 +11,7 @@ redirect_from:
 
 <span id="about-me"></span>
 
-# Welcome to my homepage! I am **Zihao Huang(黄子豪)**, a PhD student in Mathematics at Central South University in Changsha, China, supervised by Prof. Yue Zhou. My expected PhD graduation date is June 2029.
+# Welcome to my homepage! I am **Zihao Huang (黄子豪)**, a PhD student in Mathematics at Central South University in Changsha, China, supervised by Prof. Yue Zhou. My expected PhD graduation date is June 2029.
 
 I work on algebraic combinatorics and special functions, with a particular focus on constant term identities and Macdonald polynomials.
 
