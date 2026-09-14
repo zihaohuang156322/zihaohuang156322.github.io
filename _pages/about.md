@@ -37,7 +37,7 @@ I am a PhD student in Mathematics at Central South University, China, supervised
 ### An AFLT type generalization of the q-Baker-Forrester ex-conjecture
 
 **Zihao Huang**\*, Wenlong Jiang, Yue Zhou, 2026.<br>
-（submitted) [[arXiv:2609.05836]](https://arxiv.org/abs/2609.05836)
+(submitted) [[arXiv:2609.05836]](https://arxiv.org/abs/2609.05836)
 
 ### A generalization of Kadell's orthogonality ex-conjecture
 
