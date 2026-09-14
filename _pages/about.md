@@ -29,7 +29,7 @@ I work on algebraic combinatorics and special functions, with a particular focus
 
 **Zihao Huang**, Wenlong Jiang, Yao Yu, Yue Zhou<br>
 *Proceedings of the American Mathematical Society*, 154 (2026), no. 4, 1453-1466.<br>
-[[DOI]](https://doi.org/10.1090/proc/17570)
+[[Journal version]](https://doi.org/10.1090/proc/17570)
 
 ## Preprints
 {: #preprints }
