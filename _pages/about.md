@@ -49,7 +49,7 @@ I am a PhD student in Mathematics at Central South University, China, supervised
 
 **Partially symmetric Macdonald polynomials and AFLT type constant term identities**<br>
 CSIAM 2026, Hebei Normal University, China · May 17, 2026 
-[slide](https://zihaohuang156322.github.io/files/2026CSIAM.pdf)
+[[slide]](https://zihaohuang156322.github.io/files/2026CSIAM.pdf)
 
 ## Education
 {: #education }
