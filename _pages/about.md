@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-seo_title: "Zihao Huang (黄子豪) - Combinatorics|Homepage"
+seo_title: "Zihao Huang (黄子豪) | Algebraic Combinatorics | Central South University"
 description: "Zihao Huang (Combinatorics) academic homepage. PhD student in Mathematics at Central South University, working on algebraic combinatorics, q-Selberg integrals, constant term identities, and Macdonald polynomials."
 author_profile: true
 redirect_from:
