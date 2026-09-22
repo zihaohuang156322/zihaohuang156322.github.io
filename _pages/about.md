@@ -38,7 +38,7 @@ Mentor: Prof. Yue Zhou
 
 ### A generalization of the type C Macdonald constant term identity
 
-**Zihao Huang**, Wenlong Jiang, Yao Yu, Yue Zhou<br>
+with Wenlong Jiang, Yao Yu, Yue Zhou<br>
 *Proceedings of the American Mathematical Society*, 154 (2026), no. 4, 1453-1466.<br>
 [[Journal version]](https://doi.org/10.1090/proc/17570)
 
@@ -47,12 +47,12 @@ Mentor: Prof. Yue Zhou
 
 ### An AFLT type generalization of the q-Baker-Forrester ex-conjecture
 
-**Zihao Huang**\*, Wenlong Jiang, Yue Zhou, 2026.<br>
+with Wenlong Jiang, Yue Zhou, 2026.<br>
 (submitted) [[arXiv:2609.05836]](https://arxiv.org/abs/2609.05836) [[slide]](https://zihaohuang156322.github.io/files/2026CSIAM.pdf)
 
 ### A generalization of Kadell's orthogonality ex-conjecture
 
-**Zihao Huang**, Wenlong Jiang, Yue Zhou, 2026.<br>
+with Wenlong Jiang, Yue Zhou, 2026.<br>
 (submitted) [[arXiv:2603.08041]](https://arxiv.org/abs/2603.08041)
 
 ## Talks
