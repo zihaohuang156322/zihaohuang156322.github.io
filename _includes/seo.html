@@ -91,11 +91,26 @@
 {% if site.social %}
   <script type="application/ld+json">
     {
-      "@context" : "http://schema.org",
-      "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
-      "name" : "{{ site.social.name | default: site.name }}",
-      "url" : {{ seo_url | jsonify }},
-      "sameAs" : {{ site.social.links | jsonify }}
+      "@context": "https://schema.org",
+      "@type": "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
+      "@id": {{ seo_url | append: "/#person" | jsonify }},
+      "name": {{ site.social.name | default: site.name | jsonify }},
+      "alternateName": "黄子豪",
+      "url": {{ seo_url | append: "/" | jsonify }},
+      "image": {{ site.author.avatar | prepend: "/images/" | prepend: seo_url | jsonify }},
+      "jobTitle": "PhD student in Mathematics",
+      "affiliation": {
+        "@type": "CollegeOrUniversity",
+        "name": "Central South University",
+        "url": "https://www.csu.edu.cn/"
+      },
+      "knowsAbout": [
+        "Algebraic combinatorics",
+        "q-Selberg integrals",
+        "Constant term identities",
+        "Macdonald polynomials"
+      ],
+      "sameAs": {{ site.social.links | jsonify }}
     }
   </script>
 {% endif %}
