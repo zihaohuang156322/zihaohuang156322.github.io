@@ -37,3 +37,18 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+.research-interests-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 2rem;
+  row-gap: 0.5rem;
+
+  li {
+    margin-bottom: 0;
+  }
+
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
+}
