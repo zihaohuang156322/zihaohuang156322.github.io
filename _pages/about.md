@@ -64,5 +64,5 @@ with Wenlong Jiang, Yue Zhou, 2026.<br>
 CSIAM 2026, Hebei Normal University, China · May 17, 2026 
 [[slide]](https://zihaohuang156322.github.io/files/2026CSIAM.pdf)
 
-**Nonsymmetric Macdonald polynomials and 𝑞-Morris type constant term identity**<br>
+**Nonsymmetric Macdonald polynomials and 𝑞-Morris type constant term identities**<br>
 Seminar on Combinatorial Graph Theory and Its Applications, National University of Defense Technology, China · Dec. 28, 2025
