@@ -98,15 +98,15 @@ a:focus {
 
 .home-hero {
   display: grid;
-  grid-template-columns: 250px minmax(0, 620px);
+  grid-template-columns: 220px minmax(0, 620px);
   align-items: start;
   gap: 32px;
-  max-width: 902px;
+  max-width: 872px;
 }
 
 .portrait {
   display: block;
-  width: 250px;
+  width: 220px;
   max-width: 100%;
   height: auto;
   margin: 0;
