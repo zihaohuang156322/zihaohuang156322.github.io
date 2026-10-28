@@ -68,7 +68,7 @@ a:focus {
 }
 
 .site-name-cn {
-  font-size: 1rem;
+  font-size: 1.15rem;
   font-weight: 600;
 }
 
@@ -244,10 +244,28 @@ h3 {
   font-size: 0.88rem;
 }
 
-.contact-links {
+.contact-section {
+  margin-top: 34px;
+}
+
+.profile-links {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.profile-links li {
   display: flex;
-  flex-wrap: wrap;
-  gap: 8px 18px;
+  align-items: center;
+  gap: 0.65rem;
+  margin: 0 0 0.7rem;
+}
+
+.profile-links i {
+  width: 1.25rem;
+  color: var(--text-color);
+  font-size: 1rem;
+  text-align: center;
 }
 
 .site-footer p {
