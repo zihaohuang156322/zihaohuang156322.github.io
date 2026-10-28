@@ -207,10 +207,6 @@ h3 {
   padding-top: 5px;
 }
 
-.paper-links a + a {
-  margin-left: 0.4rem;
-}
-
 .publication-item,
 .talk-item {
   margin: 0 0 28px;
