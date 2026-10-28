@@ -96,12 +96,19 @@ a:focus {
   padding: 18px 0 36px;
 }
 
+.home-hero {
+  display: grid;
+  grid-template-columns: 300px minmax(0, 1fr);
+  align-items: start;
+  gap: 28px;
+}
+
 .portrait {
   display: block;
   width: 300px;
   max-width: 100%;
   height: auto;
-  margin: 0 0 16px;
+  margin: 0;
 }
 
 .intro {
@@ -152,7 +159,7 @@ h3 {
 .education-entry strong {
   display: block;
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.06em;
+  font-size: inherit;
   font-style: italic;
   font-weight: 400;
 }
@@ -261,6 +268,11 @@ h3 {
 
   .site-nav {
     gap: 0.8rem 1.25rem;
+  }
+
+  .home-hero {
+    grid-template-columns: 1fr;
+    gap: 16px;
   }
 
   .interest-list,

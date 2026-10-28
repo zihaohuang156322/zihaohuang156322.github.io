@@ -12,10 +12,11 @@ redirect_from:
 
 <span id="about-me"></span>
 
-<img class="portrait" src="{{ '/images/mypicture.jpg' | relative_url }}" alt="Zihao Huang">
-
-<div class="intro">
-  <p>I am a PhD student in Mathematics at Central South University (中南大学), China, supervised by Prof. Yue Zhou. I work on algebraic combinatorics and special functions, with a particular focus on constant term identities and Macdonald polynomials.</p>
+<div class="home-hero">
+  <img class="portrait" src="{{ '/images/mypicture.jpg' | relative_url }}" alt="Zihao Huang">
+  <div class="intro">
+    <p>I am a PhD student in Mathematics at Central South University (中南大学), China, supervised by Prof. Yue Zhou. I work on algebraic combinatorics and special functions, with a particular focus on constant term identities and Macdonald polynomials.</p>
+  </div>
 </div>
 
 <section id="research-interests">
