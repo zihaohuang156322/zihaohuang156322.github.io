@@ -14,20 +14,22 @@ redirect_from:
 
 <div class="home-hero">
   <img class="portrait" src="{{ '/images/mypicture.jpg' | relative_url }}" alt="Zihao Huang">
-  <div class="intro">
-    <p>I am a PhD student in Mathematics at Central South University (中南大学), China, supervised by Prof. Yue Zhou. I work on algebraic combinatorics and special functions, with a particular focus on constant term identities and Macdonald polynomials.</p>
+  <div class="hero-content">
+    <div class="intro">
+      <p>I am a PhD student in Mathematics at Central South University (中南大学), China, supervised by Prof. Yue Zhou. I work on algebraic combinatorics and special functions, with a particular focus on constant term identities and Macdonald polynomials.</p>
+    </div>
+
+    <section id="research-interests">
+      <h2 class="section-heading">Research Interests</h2>
+      <ul class="interest-list">
+        <li>q-Selberg type integrals</li>
+        <li>Constant term identities</li>
+        <li>Macdonald polynomials</li>
+        <li>Root systems</li>
+      </ul>
+    </section>
   </div>
 </div>
-
-<section id="research-interests">
-  <h2 class="section-heading">Research Interests</h2>
-  <ul class="interest-list">
-    <li>q-Selberg type integrals</li>
-    <li>Constant term identities</li>
-    <li>Macdonald polynomials</li>
-    <li>Root systems</li>
-  </ul>
-</section>
 
 <section id="education">
   <h2 class="section-heading">Education</h2>
