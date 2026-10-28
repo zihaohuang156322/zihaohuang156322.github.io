@@ -53,6 +53,7 @@ redirect_from:
 <section class="contact-section" aria-label="Contact information and academic profiles">
   <ul class="profile-links">
     <li><i class="fas fa-fw fa-envelope" aria-hidden="true"></i><a href="mailto:zihaohuang@csu.edu.cn">zihaohuang@csu.edu.cn</a></li>
+    <li><i class="fas fa-fw fa-envelope" aria-hidden="true"></i><a href="mailto:zihaohuang123@163.com">zihaohuang123@163.com</a></li>
     <li><i class="ai ai-orcid ai-fw" aria-hidden="true"></i><a href="https://orcid.org/0009-0006-6305-4470">0009-0006-6305-4470</a></li>
     <li><i class="ai ai-google-scholar ai-fw" aria-hidden="true"></i><a href="https://scholar.google.com/citations?user=UOnpRzYAAAAJ">Google Scholar</a></li>
   </ul>
