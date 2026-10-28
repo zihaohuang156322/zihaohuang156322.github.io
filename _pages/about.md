@@ -1,9 +1,10 @@
 ---
+layout: academic
 permalink: /
-title: "About Me"
+title: "Home"
 seo_title: "Zihao Huang (黄子豪) | Algebraic Combinatorics | Central South University"
 description: "Zihao Huang (Combinatorics) academic homepage. PhD student in Mathematics at Central South University, working on algebraic combinatorics, root systems, q-Selberg integrals, constant term identities, and Macdonald polynomials."
-author_profile: true
+nav_key: home
 redirect_from:
   - /about/
   - /about.html
@@ -11,58 +12,37 @@ redirect_from:
 
 <span id="about-me"></span>
 
-# Welcome to my homepage! I am **Zihao Huang (黄子豪)**. 
+<img class="portrait" src="{{ '/images/mypicture.jpg' | relative_url }}" alt="Zihao Huang">
 
-I am a PhD student in Mathematics at Central South University (中南大学), China, supervised by Prof. Yue Zhou. I work on algebraic combinatorics and special functions, with a particular focus on constant term identities and Macdonald polynomials.
+<div class="intro">
+  <p>I am a PhD student in Mathematics at Central South University (中南大学), China, supervised by Prof. Yue Zhou. I work on algebraic combinatorics and special functions, with a particular focus on constant term identities and Macdonald polynomials.</p>
+</div>
 
-## Research Interests
-{: #research-interests }
+<section id="research-interests">
+  <h2 class="section-heading">Research Interests</h2>
+  <ul class="interest-list">
+    <li>q-Selberg type integrals</li>
+    <li>Constant term identities</li>
+    <li>Macdonald polynomials</li>
+    <li>Root systems</li>
+  </ul>
+</section>
 
-- q-Selberg type integrals
-- Constant term identities
-- Macdonald polynomials
-- Root systems
-{: .research-interests-grid }
+<section id="education">
+  <h2 class="section-heading">Education</h2>
+  <div class="education-list">
+    <div class="education-date">2024 -- Present</div>
+    <div class="education-entry">
+      <strong>Central South University</strong>
+      Ph.D. in Mathematics<br>
+      Supervisor: Prof. Yue Zhou · Expected graduation: June 2029
+    </div>
 
-## Education
-{: #education }
-
-**PhD in Mathematics**, Central South University, Changsha<br>
-2024 - Present<br>
-Supervisor: Prof. Yue Zhou · Expected graduation: June 2029
-
-**BSc in Mathematics and Applied Mathematics**, Central South University, Changsha<br>
-2020 - 2024<br>
-Mentor: Prof. Yue Zhou
-
-## Publications
-{: #publications }
-
-### A generalization of the type C Macdonald constant term identity
-
-with Wenlong Jiang, Yao Yu, Yue Zhou<br>
-*Proceedings of the American Mathematical Society*, 154 (2026), no. 4, 1453-1466.<br>
-[[Journal version]](https://doi.org/10.1090/proc/17570)
-
-## Preprints
-{: #preprints }
-
-### An AFLT type generalization of the q-Baker-Forrester ex-conjecture
-
-with Wenlong Jiang, Yue Zhou, 2026.<br>
-(submitted) [[arXiv:2609.05836]](https://arxiv.org/abs/2609.05836) [[slide]](https://zihaohuang156322.github.io/files/2026CSIAM.pdf)
-
-### A generalization of Kadell's orthogonality ex-conjecture
-
-with Wenlong Jiang, Yue Zhou, 2026.<br>
-(submitted) [[arXiv:2603.08041]](https://arxiv.org/abs/2603.08041)
-
-## Talks
-{: #talks }
-
-**Partially symmetric Macdonald polynomials and AFLT type constant term identities**<br>
-CSIAM 2026, Hebei Normal University, China · May 17, 2026 
-[[slide]](https://zihaohuang156322.github.io/files/2026CSIAM.pdf)
-
-**Nonsymmetric Macdonald polynomials and 𝑞-Morris type constant term identities**<br>
-Seminar on Combinatorics, Graph Theory and Their Applications, National University of Defense Technology, China · Dec. 28, 2025
+    <div class="education-date">2020 -- 2024</div>
+    <div class="education-entry">
+      <strong>Central South University</strong>
+      B.Sc. in Mathematics and Applied Mathematics<br>
+      Mentor: Prof. Yue Zhou
+    </div>
+  </div>
+</section>

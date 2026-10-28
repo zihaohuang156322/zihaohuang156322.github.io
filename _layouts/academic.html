@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    {% include seo.html %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+    {% include head/custom.html %}
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="site-header">
+        {% if page.nav_key == 'home' %}<h1 class="site-identity">{% else %}<div class="site-identity">{% endif %}
+          <a class="site-name" href="{{ '/' | relative_url }}">Zihao Huang</a>
+          <span class="site-name-cn">黄子豪</span>
+        {% if page.nav_key == 'home' %}</h1>{% else %}</div>{% endif %}
+
+        <nav class="site-nav" aria-label="Primary navigation">
+          <a{% if page.nav_key == 'home' %} class="active" aria-current="page"{% endif %} href="{{ '/' | relative_url }}">HOME</a>
+          <a{% if page.nav_key == 'publications' %} class="active" aria-current="page"{% endif %} href="{{ '/publications/' | relative_url }}">PUBLICATIONS</a>
+          <a{% if page.nav_key == 'talks' %} class="active" aria-current="page"{% endif %} href="{{ '/talks/' | relative_url }}">TALKS</a>
+        </nav>
+      </header>
+
+      <main class="site-content">
+        {{ content }}
+      </main>
+
+      <footer class="site-footer">
+        <div class="contact-links" aria-label="Academic profiles and contact information">
+          <a href="mailto:zihaohuang@csu.edu.cn">zihaohuang@csu.edu.cn</a>
+          <a href="https://scholar.google.com/citations?user=UOnpRzYAAAAJ">Google Scholar</a>
+          <a href="https://orcid.org/0009-0006-6305-4470">ORCID</a>
+          <a href="https://github.com/zihaohuang156322">GitHub</a>
+        </div>
+        <p>Last updated {{ site.time | date: "%b %-d, %Y" }}.</p>
+      </footer>
+    </div>
+  </body>
+</html>
