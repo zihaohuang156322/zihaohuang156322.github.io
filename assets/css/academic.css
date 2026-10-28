@@ -56,7 +56,7 @@ a:focus {
 .site-name {
   color: var(--text-color);
   font-family: Georgia, "Times New Roman", serif;
-  font-size: clamp(2rem, 4vw, 2.65rem);
+  font-size: clamp(2rem, 3.75vw, 2.65rem);
   font-variant: small-caps;
   letter-spacing: 0.01em;
   line-height: 1.1;
