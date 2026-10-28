@@ -222,6 +222,10 @@ h3 {
   font-weight: 700;
 }
 
+.talk-item h2 {
+  font-size: inherit;
+}
+
 .publication-item p,
 .talk-item p {
   margin: 3px 0;
