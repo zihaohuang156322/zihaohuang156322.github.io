@@ -309,10 +309,12 @@ h3 {
 
 .notes-illustration {
   position: absolute;
-  inset: 0;
+  top: 5%;
+  right: 0;
+  bottom: 5%;
   display: block;
-  width: 100%;
-  height: 100%;
+  width: 92%;
+  height: 90%;
   object-fit: contain;
   object-position: right top;
   mix-blend-mode: multiply;
@@ -383,8 +385,10 @@ h3 {
 
   .notes-illustration {
     position: static;
-    width: 100%;
+    width: 92%;
     height: auto;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
