@@ -10,14 +10,18 @@ nav_key: notes
 <h1 class="page-heading">Seminar Notes</h1>
 
 <section class="notes-term" aria-labelledby="fall-2026">
-  <h2 id="fall-2026" class="notes-term-heading">Fall 2026</h2>
-
   <div class="notes-term-overview">
-    <ul class="notes-meta">
-      <li><strong>Topic:</strong> Hyperplane arrangements</li>
-      <li><strong>Supervisors:</strong> <a href="https://sites.google.com/view/trannhattan/home">Tran Nhat Tan</a> and <a href="https://faculty.csu.edu.cn/zhouyue">Yue Zhou</a></li>
-      <li><strong>Members:</strong> Zihao Huang and Shihao Lv</li>
-    </ul>
+    <div class="notes-term-copy">
+      <h2 id="fall-2026" class="notes-term-heading">Fall 2026</h2>
+
+      <ul class="notes-meta">
+        <li><strong>Topic:</strong> Hyperplane arrangements</li>
+        <li><strong>Supervisors:</strong> <a href="https://sites.google.com/view/trannhattan/home">Tran Nhat Tan</a> and <a href="https://faculty.csu.edu.cn/zhouyue">Yue Zhou</a></li>
+        <li><strong>Members:</strong> Zihao Huang and Shihao Lv</li>
+      </ul>
+
+      <p class="notes-term-description">This semester's seminar focuses on hyperplane arrangements. In particular, we are interested in generalizations of the Shi and Ish arrangements and their connections with other areas of algebraic combinatorics.</p>
+    </div>
 
     <figure class="notes-illustration-frame">
       <img class="notes-illustration" src="{{ '/images/hyperplane-arrangements-diagram.png' | relative_url }}" alt="Handwritten diagrams relating hyperplane arrangements to type A and type B q,t-Catalan combinatorics" loading="lazy" decoding="async">

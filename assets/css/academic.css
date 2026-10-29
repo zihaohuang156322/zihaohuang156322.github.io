@@ -287,24 +287,34 @@ h3 {
 .notes-term-overview {
   display: grid;
   grid-template-columns: minmax(300px, 0.8fr) minmax(0, 1.2fr);
-  align-items: start;
+  align-items: stretch;
   gap: 28px;
   margin-bottom: 22px;
 }
 
+.notes-term-copy {
+  min-width: 0;
+}
+
+.notes-term-description {
+  max-width: 520px;
+  margin: 14px 0 0;
+}
+
 .notes-illustration-frame {
-  display: flex;
-  justify-content: flex-end;
+  position: relative;
   min-width: 0;
   margin: 0;
 }
 
 .notes-illustration {
+  position: absolute;
+  inset: 0;
   display: block;
-  width: auto;
-  max-width: 100%;
-  max-height: 210px;
+  width: 100%;
+  height: 100%;
   object-fit: contain;
+  object-position: right top;
   mix-blend-mode: multiply;
 }
 
@@ -368,12 +378,13 @@ h3 {
   }
 
   .notes-illustration-frame {
-    justify-content: flex-start;
+    position: static;
   }
 
   .notes-illustration {
+    position: static;
     width: 100%;
-    max-height: none;
+    height: auto;
   }
 }
 
