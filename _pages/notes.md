@@ -16,7 +16,7 @@ nav_key: notes
 
       <ul class="notes-meta">
         <li><strong>Topic:</strong> Hyperplane arrangements</li>
-        <li><strong>Supervisors:</strong> <a href="https://sites.google.com/view/trannhattan/home">Tran Nhat Tan</a> and <a href="https://faculty.csu.edu.cn/zhouyue">Yue Zhou</a></li>
+        <li><strong>Supervisors:</strong> <a href="https://sites.google.com/view/trannhattan/home">Tan Nhat Tran</a> and <a href="https://faculty.csu.edu.cn/zhouyue">Yue Zhou</a></li>
         <li><strong>Members:</strong> Zihao Huang and Shihao Lv</li>
       </ul>
 
