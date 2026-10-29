@@ -269,6 +269,58 @@ h3 {
   text-align: center;
 }
 
+.notes-term-heading {
+  margin: 26px 0 14px;
+  color: var(--link-color);
+  font-size: 1.65rem;
+}
+
+.notes-meta {
+  margin: 0 0 22px;
+  padding-left: 1.35rem;
+}
+
+.notes-meta li {
+  margin: 4px 0;
+}
+
+.notes-table-wrap {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.notes-table {
+  width: 100%;
+  min-width: 680px;
+  border-collapse: collapse;
+  font-size: inherit;
+}
+
+.notes-table th,
+.notes-table td {
+  padding: 16px 18px;
+  border-top: 1px solid var(--rule-color);
+  border-bottom: 1px solid var(--rule-color);
+  text-align: left;
+  vertical-align: top;
+}
+
+.notes-table th {
+  font-weight: 700;
+}
+
+.notes-table tbody tr:nth-child(odd) {
+  background: #f5f5f5;
+}
+
+.notes-date-column {
+  width: 16%;
+}
+
+.notes-speaker-column {
+  width: 24%;
+}
+
 .site-footer p {
   margin: 10px 0 0;
 }
