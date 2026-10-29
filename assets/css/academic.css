@@ -309,11 +309,11 @@ h3 {
 
 .notes-illustration {
   position: absolute;
-  top: 8%;
-  right: 4%;
+  top: 10%;
+  right: 5%;
   display: block;
-  width: 92%;
-  height: 90%;
+  width: 95%;
+  height: 93%;
   object-fit: contain;
   object-position: right top;
   mix-blend-mode: multiply;
