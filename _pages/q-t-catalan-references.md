@@ -9,7 +9,7 @@ nav_key: notes
 
 <h1 class="page-heading">References</h1>
 
-<p class="reference-context">References for <em>q,t</em>-Catalan and hyperplane arrangement (type A and B).</p>
+<p class="reference-context">References for <em>q,t</em>-Catalan and hyperplane arrangements (types A and B).</p>
 
 <ul class="paper-list reference-list">
   <li>
@@ -23,10 +23,6 @@ nav_key: notes
   <li>
     <p class="paper-citation"><strong>Hyperplane arrangements and diagonal harmonics.</strong> Drew Armstrong.</p>
     <p class="paper-links"><em>Journal of Combinatorics</em>, 4 (2013), no. 2, 157-190. <a href="https://arxiv.org/abs/1005.1949">[link]</a> <a href="{{ '/files/references/armstrong-hyperplane-arrangements-diagonal-harmonics.pdf' | relative_url }}">[pdf]</a></p>
-  </li>
-  <li>
-    <p class="paper-citation"><strong>The Shi arrangement and the Ish arrangement.</strong> Drew Armstrong and Brendon Rhoades.</p>
-    <p class="paper-links"><em>Transactions of the American Mathematical Society</em>, 364 (2012), no. 3, 1509-1528. <a href="https://doi.org/10.1090/S0002-9947-2011-05521-2">[link]</a> <a href="{{ '/files/references/armstrong-rhoades-shi-ish.pdf' | relative_url }}">[pdf]</a></p>
   </li>
   <li>
     <p class="paper-citation"><strong><em>q,t</em>-Fuß-Catalan numbers for finite reflection groups.</strong> Christian Stump.</p>

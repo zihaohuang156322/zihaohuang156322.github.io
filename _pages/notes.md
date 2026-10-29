@@ -46,9 +46,15 @@ nav_key: notes
       </thead>
       <tbody>
         <tr>
+          <td>Oct. 12</td>
+          <td>Shihao Lv</td>
+          <td><a href="{{ '/files/shi-g-ish-g-hyperplane-arrangements.pdf' | relative_url }}">Shi(G) and Ish(G) hyperplane arrangements. Note.</a></td>
+          <td><a href="{{ '/notes/fall-2026/shi-g-ish-g-references/' | relative_url }}">[list]</a></td>
+        </tr>
+        <tr>
           <td>Oct. 14</td>
           <td>Zihao Huang</td>
-          <td><a href="{{ '/files/q-t-catalan-and-hyperplane-arrangement.pdf' | relative_url }}"><em>q,t</em>-Catalan and hyperplane arrangement (type A and B). Note.</a></td>
+          <td><a href="{{ '/files/q-t-catalan-and-hyperplane-arrangement.pdf' | relative_url }}"><em>q,t</em>-Catalan and hyperplane arrangements (types A and B). Note.</a></td>
           <td><a href="{{ '/notes/fall-2026/q-t-catalan-references/' | relative_url }}">[list]</a></td>
         </tr>
       </tbody>
