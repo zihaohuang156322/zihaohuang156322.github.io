@@ -9,6 +9,10 @@ nav_key: publications
 
 <p class="research-summary">My research interests center around algebraic combinatorics and special functions, especially q-Selberg type integrals, constant term identities, Macdonald polynomials, and root systems. Below are my published articles and preprints, with links to journal versions, arXiv pages, and slides when available.</p>
 
+<figure class="publications-photo-frame">
+  <img class="publications-photo" src="{{ '/images/cat-publications-banner.jpg' | relative_url }}" alt="A cat wearing a bee backpack sitting on the grass" decoding="async">
+</figure>
+
 <h1 class="page-heading publications-heading">Publications</h1>
 
 <div class="publication-list">
