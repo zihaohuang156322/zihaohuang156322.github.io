@@ -417,7 +417,7 @@ h3 {
 
   .home-hero {
     grid-template-columns: 1fr;
-    gap: 16px;
+    gap: 0;
   }
 
   .home-sidebar,
@@ -427,14 +427,29 @@ h3 {
 
   .home-hero .portrait {
     order: 1;
+    margin-bottom: 16px;
   }
 
   .home-hero .intro {
     order: 2;
   }
 
+  .home-hero .intro p {
+    margin-bottom: 0;
+  }
+
   .home-hero #research-interests {
     order: 3;
+  }
+
+  .home-hero #research-interests .section-heading,
+  .home-hero #education .section-heading {
+    margin: 24px 0 10px;
+  }
+
+  .home-hero .interest-list {
+    margin: 0;
+    gap: 6px;
   }
 
   .home-hero #education {
@@ -443,6 +458,7 @@ h3 {
 
   .home-hero .contact-section {
     order: 5;
+    margin-top: 20px;
   }
 
   .interest-list,
@@ -456,5 +472,9 @@ h3 {
 
   .education-entry {
     margin-bottom: 16px;
+  }
+
+  .home-hero .education-entry:last-child {
+    margin-bottom: 0;
   }
 }
