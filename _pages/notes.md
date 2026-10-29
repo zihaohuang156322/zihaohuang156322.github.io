@@ -24,12 +24,14 @@ nav_key: notes
         <col class="notes-date-column">
         <col class="notes-speaker-column">
         <col>
+        <col class="notes-reference-column">
       </colgroup>
       <thead>
         <tr>
           <th scope="col">Date</th>
           <th scope="col">Speaker</th>
           <th scope="col">Topic</th>
+          <th scope="col">Reference</th>
         </tr>
       </thead>
       <tbody>
@@ -37,6 +39,7 @@ nav_key: notes
           <td>Oct. 14</td>
           <td>Zihao Huang</td>
           <td><a href="{{ '/files/q-t-catalan-and-hyperplane-arrangement.pdf' | relative_url }}"><em>q,t</em>-Catalan and hyperplane arrangement (type A and B). Note.</a></td>
+          <td><a href="{{ '/notes/fall-2026/q-t-catalan-references/' | relative_url }}">[list]</a></td>
         </tr>
       </tbody>
     </table>

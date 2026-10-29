@@ -291,7 +291,7 @@ h3 {
 
 .notes-table {
   width: 100%;
-  min-width: 680px;
+  min-width: 780px;
   border-collapse: collapse;
   font-size: inherit;
 }
@@ -314,11 +314,23 @@ h3 {
 }
 
 .notes-date-column {
-  width: 16%;
+  width: 14%;
 }
 
 .notes-speaker-column {
-  width: 24%;
+  width: 20%;
+}
+
+.notes-reference-column {
+  width: 13%;
+}
+
+.reference-context {
+  margin: 0 0 24px;
+}
+
+.reference-list {
+  max-width: 1000px;
 }
 
 .site-footer p {
