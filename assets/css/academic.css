@@ -384,10 +384,8 @@ h3 {
 
   .notes-illustration {
     position: static;
-    width: 92%;
+    width: 100%;
     height: auto;
-    margin-left: auto;
-    margin-right: auto;
   }
 }
 
