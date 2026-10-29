@@ -186,8 +186,9 @@ h3 {
 }
 
 .publications-photo-frame {
+  width: 66.666%;
   margin: 0 auto 32px;
-  max-width: 620px;
+  max-width: 414px;
 }
 
 .publications-photo {
