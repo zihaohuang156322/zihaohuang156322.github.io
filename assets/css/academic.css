@@ -99,9 +99,14 @@ a:focus {
 .home-hero {
   display: grid;
   grid-template-columns: 230px minmax(0, 620px);
-  align-items: center;
+  align-items: start;
   gap: 32px;
   max-width: 882px;
+}
+
+.home-sidebar,
+.hero-content {
+  min-width: 0;
 }
 
 .portrait {
@@ -267,6 +272,10 @@ h3 {
   color: var(--text-color);
   font-size: 1rem;
   text-align: center;
+}
+
+.profile-links a {
+  overflow-wrap: anywhere;
 }
 
 .notes-term-heading {
