@@ -420,6 +420,31 @@ h3 {
     gap: 16px;
   }
 
+  .home-sidebar,
+  .hero-content {
+    display: contents;
+  }
+
+  .home-hero .portrait {
+    order: 1;
+  }
+
+  .home-hero .intro {
+    order: 2;
+  }
+
+  .home-hero #research-interests {
+    order: 3;
+  }
+
+  .home-hero #education {
+    order: 4;
+  }
+
+  .home-hero .contact-section {
+    order: 5;
+  }
+
   .interest-list,
   .education-list {
     grid-template-columns: 1fr;
