@@ -25,6 +25,10 @@ nav_key: notes
     <p class="paper-links"><em>Journal of Combinatorics</em>, 4 (2013), no. 2, 157-190. <a href="https://arxiv.org/abs/1005.1949">[link]</a> <a href="{{ '/files/references/armstrong-hyperplane-arrangements-diagonal-harmonics.pdf' | relative_url }}">[pdf]</a></p>
   </li>
   <li>
+    <p class="paper-citation"><strong>A type B analog of the Ish arrangement.</strong> Tan Nhat Tran and Shuhei Tsujie.</p>
+    <p class="paper-links"><em>Algebraic Combinatorics</em>, 8 (2025), no. 1, 267-294. <a href="https://doi.org/10.5802/alco.405">[link]</a> <a href="{{ '/files/references/tran-tsujie-type-b-ish.pdf' | relative_url }}">[pdf]</a></p>
+  </li>
+  <li>
     <p class="paper-citation"><strong><em>q,t</em>-Fuß-Catalan numbers for finite reflection groups.</strong> Christian Stump.</p>
     <p class="paper-links"><em>Journal of Algebraic Combinatorics</em>, 32 (2010), 67-97. <a href="https://doi.org/10.1007/s10801-009-0205-0">[link]</a> <a href="{{ '/files/references/stump-qt-fuss-catalan.pdf' | relative_url }}">[pdf]</a></p>
   </li>
