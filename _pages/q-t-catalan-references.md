@@ -13,6 +13,10 @@ nav_key: notes
 
 <ul class="paper-list reference-list">
   <li>
+    <p class="paper-citation"><strong>The <em>q,t</em>-Catalan Numbers and the Space of Diagonal Harmonics: With an Appendix on the Combinatorics of Macdonald Polynomials.</strong> James Haglund.</p>
+    <p class="paper-links"><em>University Lecture Series</em>, vol. 41, American Mathematical Society, 2008. <a href="https://doi.org/10.1090/ULECT/041">[link]</a> <a href="{{ '/files/references/haglund-qt-catalan-diagonal-harmonics.pdf' | relative_url }}">[pdf]</a></p>
+  </li>
+  <li>
     <p class="paper-citation"><strong>Asymptotic <em>q,t</em>-Fuss-Catalan numbers for type B.</strong> Alexei Oblomkov.</p>
     <p class="paper-links">arXiv:2609.11691v3, 2026. <a href="https://arxiv.org/abs/2609.11691">[link]</a> <a href="{{ '/files/references/oblomkov-asymptotic-qt-fuss-catalan-type-b.pdf' | relative_url }}">[pdf]</a></p>
   </li>
