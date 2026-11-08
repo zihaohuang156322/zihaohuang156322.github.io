@@ -17,6 +17,6 @@ nav_key: talks
 
   <article class="talk-item">
     <h2>Nonsymmetric Macdonald polynomials and 𝑞-Morris type constant term identities</h2>
-    <p>Seminar on Combinatorics, Graph Theory and Their Applications, National University of Defense Technology, China · Dec. 28, 2025</p>
+    <p>Seminar on Combinatorics, Graph Theory and Their Applications, National University of Defense Technology, China · Dec. 28, 2025 <a href="{{ '/talks/nudt-2025/photos/' | relative_url }}">[photos]</a></p>
   </article>
 </div>
