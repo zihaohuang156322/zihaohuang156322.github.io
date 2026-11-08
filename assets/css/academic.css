@@ -389,6 +389,35 @@ h3 {
   max-width: 1000px;
 }
 
+.gallery-context {
+  margin: 0 0 24px;
+}
+
+.photo-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 18px;
+}
+
+.photo-gallery-item {
+  margin: 0;
+}
+
+.photo-gallery-item a,
+.photo-gallery-item img {
+  display: block;
+}
+
+.photo-gallery-item img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.gallery-empty {
+  color: var(--muted-color);
+}
+
 .site-footer p {
   margin: 10px 0 0;
 }

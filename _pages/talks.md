@@ -12,7 +12,7 @@ nav_key: talks
 <div class="talk-list">
   <article class="talk-item">
     <h2>Partially symmetric Macdonald polynomials and AFLT type constant term identities</h2>
-    <p>CSIAM 2026, Hebei Normal University, China · May 17, 2026 <a href="{{ '/files/2026CSIAM.pdf' | relative_url }}">[slide]</a></p>
+    <p>CSIAM 2026, Hebei Normal University, China · May 17, 2026 <a href="{{ '/files/2026CSIAM.pdf' | relative_url }}">[slide]</a> <a href="{{ '/talks/csiam-2026/photos/' | relative_url }}">[photos]</a></p>
   </article>
 
   <article class="talk-item">
