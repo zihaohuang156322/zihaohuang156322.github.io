@@ -69,6 +69,7 @@ a:focus {
 }
 
 .site-name-cn {
+  font-family: Georgia, "Times New Roman", serif;
   font-size: 1.15rem;
   font-weight: 600;
 }
