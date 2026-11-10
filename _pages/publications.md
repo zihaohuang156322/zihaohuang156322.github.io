@@ -21,7 +21,7 @@ nav_key: publications
     <li>
       <p class="paper-citation"><strong>A generalization of the type C Macdonald constant term identity.</strong> 2026. with Wenlong Jiang, Yao Yu, Yue Zhou.</p>
       <p class="paper-links"><em>Proceedings of the American Mathematical Society</em>, 154, no. 4, 1453-1466. <a href="https://doi.org/10.1090/proc/17570">[Journal version]</a></p>
-      <p class="paper-name-note">(In this paper I published under "Zihao Huang" )</p>
+      <p class="paper-name-note">(Published under the name “Zihao Huang.”)</p>
     </li>
   </ul>
 
