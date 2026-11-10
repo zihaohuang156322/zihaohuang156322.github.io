@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zihao Huang"
+title                    : "Ricardo Zihao Huang"
 title_separator          : "-"
-name                     : &name "Zihao Huang"
-description              : &description "Zihao Huang's academic homepage in mathematics"
+name                     : &name "Ricardo Zihao Huang"
+description              : &description "Ricardo Zihao Huang's academic homepage in mathematics"
 url                      : https://zihaohuang156322.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "zihaohuang156322/zihaohuang156322.github.io"
 author:
   # Biographic information
   avatar           : "mypicture.jpg"
-  name             : "Zihao Huang"
+  name             : "Ricardo Zihao Huang"
   pronouns         : # example: "she/her"  
   bio              : "Central South University"
   location         : "Changsha, China"
@@ -149,7 +149,7 @@ og_description           :  # Social media default site image description
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person
-  name                   : "Zihao Huang"
+  name                   : "Ricardo Zihao Huang"
   links:
     - "https://orcid.org/0009-0006-6305-4470"
     - "https://github.com/zihaohuang156322"

@@ -2,8 +2,8 @@
 layout: academic
 permalink: /talks/nudt-2025/photos/
 title: "NUDT Seminar 2025 Photos"
-seo_title: "NUDT Seminar 2025 Photos | Zihao Huang"
-description: "Photos from Zihao Huang's seminar at the National University of Defense Technology in 2025."
+seo_title: "NUDT Seminar 2025 Photos | Ricardo Zihao Huang"
+description: "Photos from Ricardo Zihao Huang's seminar at the National University of Defense Technology in 2025."
 nav_key: talks
 ---
 

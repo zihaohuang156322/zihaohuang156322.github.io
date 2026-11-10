@@ -2,7 +2,7 @@
 layout: academic
 permalink: /notes/fall-2026/shi-g-ish-g-references/
 title: "References"
-seo_title: "References for Shi(G) and Ish(G) Hyperplane Arrangements | Zihao Huang"
+seo_title: "References for Shi(G) and Ish(G) Hyperplane Arrangements | Ricardo Zihao Huang"
 description: "References for seminar notes on Shi(G) and Ish(G) hyperplane arrangements."
 nav_key: notes
 ---

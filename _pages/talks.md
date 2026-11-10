@@ -2,8 +2,8 @@
 layout: academic
 permalink: /talks/
 title: "Talks"
-seo_title: "Talks | Zihao Huang (黄子豪)"
-description: "Selected academic talks by Zihao Huang on Macdonald polynomials and constant term identities."
+seo_title: "Talks | Ricardo Zihao Huang (黄子豪)"
+description: "Selected academic talks by Ricardo Zihao Huang (黄子豪) on Macdonald polynomials and constant term identities."
 nav_key: talks
 ---
 

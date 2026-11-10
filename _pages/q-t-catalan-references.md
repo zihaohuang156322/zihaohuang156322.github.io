@@ -2,7 +2,7 @@
 layout: academic
 permalink: /notes/fall-2026/q-t-catalan-references/
 title: "References"
-seo_title: "References for q,t-Catalan and Hyperplane Arrangements | Zihao Huang"
+seo_title: "References for q,t-Catalan and Hyperplane Arrangements | Ricardo Zihao Huang"
 description: "References for seminar notes on q,t-Catalan and hyperplane arrangements of types A and B."
 nav_key: notes
 ---

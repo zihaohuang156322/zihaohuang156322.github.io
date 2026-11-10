@@ -2,8 +2,8 @@
 layout: academic
 permalink: /
 title: "Home"
-seo_title: "Zihao Huang (黄子豪) | Algebraic Combinatorics | Central South University"
-description: "Zihao Huang (Combinatorics) academic homepage. PhD student in Mathematics at Central South University, working on algebraic combinatorics, root systems, q-Selberg integrals, constant term identities, and Macdonald polynomials."
+seo_title: "Ricardo Zihao Huang (黄子豪) | Algebraic Combinatorics | Central South University"
+description: "Ricardo Zihao Huang (黄子豪) academic homepage. PhD student in Mathematics at Central South University, working on algebraic combinatorics, root systems, q-Selberg integrals, constant term identities, and Macdonald polynomials."
 nav_key: home
 redirect_from:
   - /about/
@@ -14,7 +14,7 @@ redirect_from:
 
 <div class="home-hero">
   <div class="home-sidebar">
-    <img class="portrait" src="{{ '/images/mypicture.jpg' | relative_url }}" alt="Zihao Huang">
+    <img class="portrait" src="{{ '/images/mypicture.jpg' | relative_url }}" alt="Ricardo Zihao Huang">
 
     <section class="contact-section" aria-label="Contact information and academic profiles">
       <ul class="profile-links">

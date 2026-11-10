@@ -2,8 +2,8 @@
 layout: academic
 permalink: /publications/
 title: "Publications"
-seo_title: "Publications | Zihao Huang (黄子豪)"
-description: "Published articles and preprints by Zihao Huang in algebraic combinatorics and special functions."
+seo_title: "Publications | Ricardo Zihao Huang (黄子豪)"
+description: "Published articles and preprints by Ricardo Zihao Huang (黄子豪) in algebraic combinatorics and special functions."
 nav_key: publications
 ---
 

@@ -27,6 +27,7 @@
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
 <meta name="description" content="{{ seo_description }}">
+<meta name="author" content="{{ site.author.name | default: site.name }}">
 
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
 {% if seo_author %}
@@ -95,7 +96,10 @@
       "@type": "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
       "@id": {{ seo_url | append: "/#person" | jsonify }},
       "name": {{ site.social.name | default: site.name | jsonify }},
-      "alternateName": "黄子豪",
+      "givenName": "Ricardo",
+      "additionalName": "Zihao",
+      "familyName": "Huang",
+      "alternateName": ["Zihao Huang", "黄子豪"],
       "url": {{ seo_url | append: "/" | jsonify }},
       "image": {{ site.author.avatar | prepend: "/images/" | prepend: seo_url | jsonify }},
       "jobTitle": "PhD student in Mathematics",

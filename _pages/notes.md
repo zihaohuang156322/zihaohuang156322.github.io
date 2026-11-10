@@ -2,8 +2,8 @@
 layout: academic
 permalink: /notes/
 title: "Notes"
-seo_title: "Seminar Notes | Zihao Huang (黄子豪)"
-description: "Seminar notes by Zihao Huang on hyperplane arrangements and related topics in algebraic combinatorics."
+seo_title: "Seminar Notes | Ricardo Zihao Huang (黄子豪)"
+description: "Seminar notes by Ricardo Zihao Huang (黄子豪) on hyperplane arrangements and related topics in algebraic combinatorics."
 nav_key: notes
 ---
 
@@ -17,7 +17,7 @@ nav_key: notes
       <ul class="notes-meta">
         <li><strong>Topic:</strong> Hyperplane arrangements</li>
         <li><strong>Supervisors:</strong> <a href="https://sites.google.com/view/trannhattan/home">Tan Nhat Tran</a> and <a href="https://faculty.csu.edu.cn/zhouyue">Yue Zhou</a></li>
-        <li><strong>Members:</strong> Zihao Huang and Shihao Lv</li>
+        <li><strong>Members:</strong> Ricardo Zihao Huang and Shihao Lv</li>
       </ul>
 
       <p class="notes-term-description">This semester's seminar focuses on hyperplane arrangements. In particular, we are interested in generalizations of the Shi and Ish arrangements and their connections with other areas of algebraic combinatorics.</p>
@@ -53,7 +53,7 @@ nav_key: notes
         </tr>
         <tr>
           <td>2026.10.19.</td>
-          <td>Zihao Huang</td>
+          <td>Ricardo Zihao Huang</td>
           <td><em>q,t</em>-Catalan and hyperplane arrangements (types A and B)</td>
           <td><a href="{{ '/notes/fall-2026/q-t-catalan-references/' | relative_url }}">[list]</a></td>
         </tr>

@@ -2,8 +2,8 @@
 layout: academic
 permalink: /talks/csiam-2026/photos/
 title: "CSIAM 2026 Photos"
-seo_title: "CSIAM 2026 Photos | Zihao Huang"
-description: "Photos from Zihao Huang's talk at CSIAM 2026 at Hebei Normal University."
+seo_title: "CSIAM 2026 Photos | Ricardo Zihao Huang"
+description: "Photos from Ricardo Zihao Huang's talk at CSIAM 2026 at Hebei Normal University."
 nav_key: talks
 ---
 
