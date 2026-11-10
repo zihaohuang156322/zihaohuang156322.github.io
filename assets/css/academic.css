@@ -215,7 +215,8 @@ h3 {
 }
 
 .paper-citation,
-.paper-links {
+.paper-links,
+.paper-name-note {
   margin: 0;
 }
 
@@ -225,6 +226,10 @@ h3 {
 
 .paper-links {
   padding-top: 5px;
+}
+
+.paper-name-note {
+  padding-top: 3px;
 }
 
 .publication-item,
