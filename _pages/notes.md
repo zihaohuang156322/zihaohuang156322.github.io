@@ -52,7 +52,7 @@ nav_key: notes
           <td><a href="{{ '/notes/fall-2026/shi-g-ish-g-references/' | relative_url }}">[list]</a></td>
         </tr>
         <tr>
-          <td>Oct. 14</td>
+          <td>2026.10.19.</td>
           <td>Zihao Huang</td>
           <td><em>q,t</em>-Catalan and hyperplane arrangements (types A and B)</td>
           <td><a href="{{ '/notes/fall-2026/q-t-catalan-references/' | relative_url }}">[list]</a></td>
